@@ -1,0 +1,10 @@
+# Ignore myenv
+myenv/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment-specific files
+.env
