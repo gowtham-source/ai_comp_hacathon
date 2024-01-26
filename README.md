@@ -2,6 +2,8 @@
 ---
 # Heart Rate Prediction Project
 
+![Envision_a_closeup_of_a_persons_chest_their_h (1)](https://github.com/gowtham-source/ai_comp_hacathon/assets/75899822/eb7e623f-d5ca-4432-82de-5f9fa0ef900a)
+
 ## Overview
 
 This project aims to predict heart rates based on various physiological features using machine learning models. The goal is to explore different models, analyze their performance, and provide insights into the predictive capabilities for heart rate estimation.
